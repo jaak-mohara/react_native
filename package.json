@@ -1,0 +1,22 @@
+{
+  "name": "react_native",
+  "version": "0.0.0",
+  "description": "MOHARA learn react native project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaak-mohara/react_native.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "chris & jaak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaak-mohara/react_native/issues"
+  },
+  "homepage": "https://github.com/jaak-mohara/react_native#readme"
+}
