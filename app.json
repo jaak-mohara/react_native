@@ -1,0 +1,12 @@
+{
+  "name": "MOLReactNative",
+  "displayName": "MOLReactNative",
+  "expo": {
+    "name": "MOLReactNative",
+    "slug": "MOLReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
